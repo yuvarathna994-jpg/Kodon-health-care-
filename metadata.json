@@ -1,0 +1,8 @@
+{
+  "name": "KoDon Health Care",
+  "description": "Doorstep blood sample collection and NABL pathology diagnostics across Hyderabad with certified phlebotomists, fast digital reports, and instant slot booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
